@@ -11,6 +11,11 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "DarkLead! Community",
   description: "The Open Developer Community",
+  keywords: ["DarkLead", "Community", "Cybersecurity", "Open Source"],
+  authors: [{ name: "Gowthaman" }, { name: "Subir" }, { name: "Mehbub" }, { name: "Aflah" }, { name: "Nandakishore" }],
+  icons: {
+    icon: '/DL.svg',
+  },
 }
 
 export default function RootLayout({

@@ -29,7 +29,7 @@ export default function Footer() {
             <WhatsAppIcon className="h-5 w-5" />
             <span className="sr-only">WhatsApp</span>
           </Link>
-          <Link href="https://discord.gg/ZgQExvkB" className="social-icon">
+          <Link href="https://discord.gg/QbV5jjje" className="social-icon">
             <DiscordIcon className="h-5 w-5" />
             <span className="sr-only">Discord</span>
           </Link>
