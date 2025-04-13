@@ -72,7 +72,7 @@ export default function CTFPage() {
               </div>
             </div>
 
-            <Link href="/ctf/events/summer-2025" className="text-primary hover:underline flex items-center">
+            <Link href="/ctf/" className="text-primary hover:underline flex items-center">
               View details <ArrowRight className="h-4 w-4 ml-1" />
             </Link>
           </div>
@@ -111,7 +111,7 @@ export default function CTFPage() {
               </div>
             </div>
 
-            <Link href="/ctf/events/summer-2025" className="text-primary hover:underline flex items-center">
+            <Link href="https://dl.darklead.org/" className="text-primary hover:underline flex items-center">
               View details <ArrowRight className="h-4 w-4 ml-1" />
             </Link>
           </div>
@@ -130,7 +130,7 @@ export default function CTFPage() {
                   <Users className="h-4 w-4 mr-2 text-primary" />
                   <span>Individual</span>
                 </div>
-                <Link href="/ctf/events/mini-12" className="text-primary hover:underline flex items-center">
+                <Link href="/ctf/" className="text-primary hover:underline flex items-center">
                   Details <ArrowRight className="h-4 w-4 ml-1" />
                 </Link>
               </div>
@@ -149,7 +149,7 @@ export default function CTFPage() {
                   <Users className="h-4 w-4 mr-2 text-primary" />
                   <span>Teams (max 4)</span>
                 </div>
-                <Link href="/ctf/events/company-collab" className="text-primary hover:underline flex items-center">
+                <Link href="/ctf" className="text-primary hover:underline flex items-center">
                   Details <ArrowRight className="h-4 w-4 ml-1" />
                 </Link>
               </div>
