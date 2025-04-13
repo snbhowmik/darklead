@@ -14,7 +14,7 @@ export default function FounderPortfolio() {
               <h2 className="text-2xl text-primary mb-6">Cybersecurity Enthusiast & Founder of DarkLead!</h2>
               <p className="text-lg mb-8">
                 Passionate about Penetration Testing and ethical hacking. Aspiring Cloud Engineer and Pentester.
-                Specializes in contanerized and Orchestration Technologies. enthusiasts. Founder of DarkLead!, a
+                Specializes in containers and Orchestration Technologies. Cybersecurity Enthusiast. Founder of DarkLead!, a
                 next-gen cybersecurity community for hackers and CTF warriors.
               </p>
               <div className="flex space-x-4">
